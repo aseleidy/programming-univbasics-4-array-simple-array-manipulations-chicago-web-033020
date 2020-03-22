@@ -30,3 +30,8 @@ def using_insert(array, element)
   fourth = array[3]
   fourth.insert(-1, element)
 end
+
+def using_uniq(array)
+  
+
+end
