@@ -28,5 +28,5 @@ end
 
 def using_insert(array, element)
   fourth = array[4]
-  fourth.insert(element)
+  fourth.insert(-1, element)
 end
